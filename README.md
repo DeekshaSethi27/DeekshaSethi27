@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deeksha Sethi 
 =====================================================================================================================================
-I am an Automation Engineer who loves to break things and test!! Pursuing Post Graduation in Data Science. Python is my second love!!
+I am an Automation Engineer who loves to break things and test!! Completed Post Graduation in Data Science. Python is my second love!!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [deekshasethi27@gmail.com](mailto:deekshasethi27@gmail.com)
